@@ -123,7 +123,7 @@ The result is zero false positives. Like a spam filter that never buries a genui
 Apps suffering fake accounts, bonus abuse, referral farming, automation and MITM.\
 These issues mostly affect fintech, crypto, web3, social media, dating, online gambling and betting, e-commerce and marketplaces, ticketing and resale, streaming, gig and delivery, loyalty and rewards programs, MMORPGs and competitive games.\
 Even though IntaktoFT still visibly reduces these attack classes (mostly performed through instrumentation), a more specialized and protected solution is suggested.\
-If you're among these, contact us to see if you qualify for the commercial solutions: Intakto paid tier (link coming soon).
+If you're among these, the Intakto paid tier is built for you: a separate, closed product. No paid code lives in this repo.
 
 
 ## ~ What it checks for
