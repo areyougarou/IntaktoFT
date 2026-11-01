@@ -32,7 +32,7 @@ If either answer is yes, it stops the app.
 
    We use checks that produce zero false positives, crashes or slowdown.\
    Every check is tested across devices, Android versions and app types ([where we test it](#tested-on)).\
-   If a check fires, someone is trying to harm your app.\
+   If a check fires, someone is trying to harm your app.
 4. **Free**
 
    Apache 2.0, commercial apps included, no account, no device limit.
